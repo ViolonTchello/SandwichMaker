@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6215499179037e54486850d435484c50, type: 3}
+  m_Name: Vegetariano
+  m_EditorClassIdentifier: 
+  name: Vegetariano
+  ingredients:
+  - Tomate
+  - Pepino
+  - Alface
+  icon: {fileID: 2800000, guid: 60c6131c72ea2d84298c5f61a5a08ab0, type: 3}
